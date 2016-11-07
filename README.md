@@ -4,4 +4,4 @@
 
 * [ ] intro slides
 * [ ] tweet prerequisites
-* [ ] rewrite the main page of bootcamp
+* [x] rewrite the main page of bootcamp
